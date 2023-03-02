@@ -1,0 +1,14 @@
+*
+!public/
+!cartella_condivisa/
+!densitometrie/
+!morfometrie/
+!TBS/
+!polso/
+!rate/
+!vecchi_pdf/
+!firme/
+!scartati/
+!backup/
+!pdf_non_migrati/
+!.gitignore

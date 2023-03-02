@@ -1,0 +1,6 @@
+/vendor
+/.idea
+.php_cs.cache
+composer.phar
+tmp[a-zA-Z0-9]{6,32}
+.DS_Store
