@@ -8,7 +8,7 @@
 </p>
 
 ## Autori:
-[Giacomo Piva](https://www.giacomopiva.com).
+[Alfonso Esposito].
 
 ## Package installati:
 
